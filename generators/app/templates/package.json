@@ -1,0 +1,32 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "browser-sync": "^2.14.0",
+    "event-stream": "^3.3.4",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gzippo": "^0.2.0",
+    "jasmine-core": "^2.4.1",
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1",
+    "karma": "^1.2.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1"
+  }
+}
