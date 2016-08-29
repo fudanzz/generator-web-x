@@ -1,2 +1,2 @@
 # generator-web-x
-project scaffolding based on yeoman
+angular web project scaffolding based on yeoman
